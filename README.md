@@ -6,12 +6,12 @@ Facebook API
 Install the dependencies.
 
 ```bash
-$ npm install
+npm install
 ```
 ##### Usage
 
 ```sh
-npm run dev
+npx run dev
 ```
 
 
