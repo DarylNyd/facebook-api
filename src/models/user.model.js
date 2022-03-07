@@ -15,6 +15,7 @@ export const findByEmail = ({ email }) =>
       email,
     },
   });
+  
 
 export const findById = ({ id }) =>
   prisma.user.findUnique({
