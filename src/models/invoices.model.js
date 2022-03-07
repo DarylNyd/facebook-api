@@ -29,3 +29,4 @@ export const deleteOne = (id) =>
   prisma.invoice.delete({
     where: { id },
   });
+  
