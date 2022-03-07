@@ -15,3 +15,4 @@ export const updateProfile = (id, { firstName, lastName }) =>
     },
     data: { firstName, lastName },
   });
+  
